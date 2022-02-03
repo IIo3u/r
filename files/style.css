@@ -1,0 +1,35 @@
+html {
+	background-image: url(pic/background3.jpg);
+	color:black;
+	width:auto;
+	margin:25%;
+
+}
+body {
+	background:white;
+	border: 6px ridge #e8e8e8;
+	
+	
+}
+
+h3 {
+	margin:30px;
+}
+
+.textt {
+	padding-left:10px
+}
+
+.picc {
+	border:5px ridge gray;
+	float:right;
+	margin-left:10px;
+}
+
+.frontt {
+	border:5px ridge gray;
+
+	margin-bottom:10px;
+}
+
+
